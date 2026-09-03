@@ -17,7 +17,6 @@ This is a fully animated, interactive, 3D developer portfolio designed to **impr
 </div>
 <br/>
 
-> 📺 [Watch Full YouTube Walkthrough](https://youtu.be/i0229UsdBwc)
 ---
 
 ## 🚀 Tech Stack
@@ -69,28 +68,12 @@ npm run dev
 
 ---
 
-## 🔗 Assets
-
-Assets used in the project can be found [here](https://github.com/user-attachments/files/19820923/public.zip)
-
----
-
 ## 📣 Like the project?
 
 If this helped you build or inspire your own site:
 
 - ⭐ Star this repo
 
-- 📺 [Watch the full walkthrough on YouTube](https://youtu.be/i0229UsdBwc)
-
-- 📬 [Connect on LinkedIn](https://www.linkedin.com/in/ali-sanati)
-
-- 📷 [Follow me on Instagram](https://www.instagram.com/ali.sanatidev/reels/)
-
 ---
 
 ## 🤝 Let’s Build Together
-
-Drop a comment on the video or open an issue with your idea!
-
-> 📩 Like, subscribe, and let me know what kind of project you want to build together!
